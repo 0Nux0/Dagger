@@ -34,9 +34,7 @@ All logical operators
 >, >=, <, <=, ==, !=
 ```
 *>* compares the value in the left-hand direction, representing the logical operation of greater than
-
 *<* compares the value in the direction to the  right-hand, representing the logical operation of less than
-
 *>=* compares the value in the left-hand direction, representing the logical operation of greater than or equal to
 *<=*  compares the value in the right-hand direction, representing the logical operation of less than or equal to
 *==* compares the value, if it is equal to the value passed to the right
