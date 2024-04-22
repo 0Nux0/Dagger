@@ -1,6 +1,6 @@
 # Dagger introduction
 
-<img src="ibb.co/LrgDR8B">
+<img src="https://i.postimg.cc/xTHzrPT9/Frame-1-4.png">
 
 ### What is Dagger? 
 Dagger is a self project of my github page for self improvement in skill area. Completely made in luau and interpreted by with: https://github.com/lune-org/lune
